@@ -1,12 +1,11 @@
 # frozen_string_literal: true
 
-# name: disorder
+# name: discourse-disorder
 # about: Automates toxicity detection is user posts using AI
 # version: 7.0
 # authors: xfalcox
-# url: https://github.com/xfalcox/disorder
+# url: https://github.com/discourse/discourse-disorder
 # required_version: 2.8.0
-# transpile_js: true
 
 enabled_site_setting :disorder_enabled
 
